@@ -1,0 +1,88 @@
+body{
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+ }
+
+ .opacity{
+   background-color: black;
+   color: black;
+   opacity: 0.6;
+   width: 1000px;
+   height: 650px;
+   margin: auto;
+   border-radius: 3%;
+ }
+
+.container-logo{
+  width: 200px;
+  margin: auto;
+  margin-top: 100PX;
+  padding-top: 40px;
+}
+
+.logo{
+  width: 200px;
+}
+
+.container-text{
+  text-align: center;
+  color: Lawngreen;
+}
+
+.container-bottoni{
+  width: 700px;
+  height: 40px;
+  background-color: Lawngreen;
+  margin:auto;
+}
+
+.bottoni{
+  text-align: center;
+  padding-top: 10PX;
+}
+
+main{
+  width: 700px;
+  height: 250px;
+  margin: auto;
+}
+
+span{
+color: white;
+display: inline-block;
+}
+
+
+.checkbox{
+  font-size: 22px;
+  display: inline-block;
+}
+
+div p{
+  font-size: 15px;
+  line-height: 0.1;
+  color: white;
+}
+
+.linea-carica1{
+  width: 300px;
+  height: 20px;
+  background-color: orange;
+  border-radius: 5%;
+}
+
+.linea-carica2{
+  width: 500px;
+  height: 20px;
+  background-color: Lawngreen;
+  border-radius: 5%;
+}
+
+.linea-carica3{
+  width: 150px;
+  height: 20px;
+  background-color: red;
+  border-radius: 5%;
+}
